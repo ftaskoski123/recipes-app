@@ -19,8 +19,7 @@ To get started with Forkify on your local machine, follow these simple steps:
    - Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/forkify.git
-Replace yourusername with your actual GitHub username.
+   git clone https://github.com/ftaskoski123e/forkify.git
 
 2.**Navigate to the Project Directory:**
 
